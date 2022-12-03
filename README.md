@@ -1,4 +1,5 @@
-- 👋 eu me chamo Samira 
+# QUEM SOU EU
+👋 eu me chamo Samira 
 - 👀 sou estudante do Sully
 - 🌱 tenho 18y
 - 💞️ foco nos estudos

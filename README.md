@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @samivictoria1111
-- 👀 Eu tenho interesse em ser uma boa aluna
-- 🌱 Estou tentando aprender a lidar com o github
-- 💞️ Me dedicar mais nas coisas
-- 📫 Sou de Pontal do Sul
+- 👋 eu me chamo Samira 
+- 👀 sou estudante do Sully
+- 🌱 tenho 18y
+- 💞️ foco nos estudos
+- 📫 Sou de Pontal do Parana
 
 <!---
 samivictoria1111/samivictoria1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
